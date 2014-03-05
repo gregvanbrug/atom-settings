@@ -1,0 +1,24 @@
+'exception-reporting':
+  'userId': '0eef5914-28c4-4680-ba7c-a0a7d89d234d'
+'release-notes':
+  'viewedVersion': '0.67.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': 'e3f3222efe440f9aa6a5e588a7b4be54819f9053'
+'editor':
+  'tabLength': 4
+  'showIndentGuide': true
+  'fontFamily': 'Inconsolata'
+'core':
+  'themes': [
+    'atom-dark-ui'
+    'atom-monokai-dark'
+  ]
+  'ignoredNames': [
+    '.git'
+    '.svn'
+    '.DS_Store'
+  ]
+'tree-view':
+  'hideIgnoredNames': true

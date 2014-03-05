@@ -1,0 +1,32 @@
+{
+  "main": "./index.coffee",
+  "name": "pretty-json",
+  "version": "0.2.0",
+  "description": "Format JSON",
+  "keywords": [
+    "JSON",
+    "format",
+    "pretty",
+    "prettify"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/federomero/pretty-json"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "readme": "Pretty JSON\n===========\n\n[Atom](http://atom.io/) plugin. Format JSON documents.\n\n![](http://i.imgur.com/Nd4GvtP.gif)\n\nJust select the text to format and select the prettify command. In a JSON file, it formats the whole file.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/federomero/pretty-json/issues"
+  },
+  "homepage": "https://github.com/federomero/pretty-json",
+  "_id": "pretty-json@0.2.0",
+  "dist": {
+    "shasum": "9cdae5c92973342741c81a0dc329d68e247ece95"
+  },
+  "_resolved": "/var/folders/n3/kgyr5zys5ng15yrwby50tjvm0000gn/T/d-11423-14351-9otqw/package.tgz",
+  "_from": "/var/folders/n3/kgyr5zys5ng15yrwby50tjvm0000gn/T/d-11423-14351-9otqw/package.tgz"
+}
