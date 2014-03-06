@@ -22,3 +22,5 @@
   ]
 'tree-view':
   'hideIgnoredNames': true
+'autosave':
+  'enabled': true
